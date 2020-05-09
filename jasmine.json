@@ -1,0 +1,9 @@
+{
+  "spec_dir": ".",
+  "spec_files": [
+    "**/*-tests.js",
+    "!**/node_modules/**"
+  ],
+  "oneFailurePerSpec": true,
+  "random": true
+}
